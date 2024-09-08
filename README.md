@@ -1,65 +1,30 @@
-👋 Hi, I'm @Aliariuss (Muhammed Ali Kılıç)  
-👀 Interests:
+## Hi 👋, I'm Muhammed Ali Kılıç
+### Backend Developer | C# Enthusiast
 
-- Backend Development (especially with C# and .NET Core)  
-- Mobile App Development  
-- Game Development with Unity  
-- Clean Code Architecture and Best Practices  
-- Exploring new programming languages and frameworks  
+I'm passionate about backend development, especially with C# and .NET Core. I'm constantly exploring new technologies and frameworks.
 
-🌱 Currently Learning:
+- 🌱 I'm currently learning **Advanced C#**, **Python**, and **Android Development**.
+- 🔭 I’m looking to collaborate on **ASP.NET Core** backend projects.
+- 📫 How to reach me: [muhammed.kilic8@outlook.com](mailto:muhammed.kilic8@outlook.com)
 
-- Advanced backend development with .NET Core and C#  
-- Python for data science and backend applications  
-- Android Studio for mobile app development  
-- Clean Code principles to enhance code quality and maintainability  
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliarius)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammed.kilic8@outlook.com)
 
-💼 Looking to Collaborate On:
+## 📊 GitHub Stats:
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Aliariuss&show_icons=true&theme=radical)
 
-- Backend projects focusing on ASP.NET Core, C#, and large-scale system architecture  
-- Innovative task management and personnel management systems  
-- Large-scale applications using Entity Framework Core and SQL Server  
+## Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aliariuss&layout=compact)
 
-📫 How to Reach Me:
+## Languages and Tools:
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- 📧 [Send an Email](mailto:muhammed.kilic8@outlook.com)  
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/aliarius)  
-
-😄 Pronouns: He/Him  
-
-⚡ Fun Fact:  
-I love diving deep into backend technologies with C# and solving complex system architecture challenges. I'm also constantly eager to learn new programming paradigms and technologies.
-
-***********************************************************************************************************
-
-👋 Merhaba, ben @Aliariuss (Muhammed Ali Kılıç)  
-👀 İlgi Alanlarım:
-
-- Backend Geliştirme (özellikle C# ile .NET Core)  
-- Mobil Uygulama Geliştirme  
-- Unity ile Oyun Geliştirme  
-- Clean Code Mimarisi ve En İyi Uygulamalar  
-- Yeni programlama dilleri ve çerçevelerini keşfetmek  
-
-🌱 Şu Anda Öğrendiğim:
-
-- İleri seviye backend geliştirme için .NET Core ve C#  
-- Veri bilimi ve arka uç geliştirme için Python  
-- Mobil uygulama geliştirme için Android Studio  
-- Kod kalitesini ve sürdürülebilirliği artırmak için Clean Code Prensipleri  
-
-💼 Birlikte Çalışmak İstediğim Projeler:
-
-- ASP.NET Core, C# ve büyük ölçekli sistem mimarisi üzerine backend projeleri  
-- Yenilikçi görev yönetimi ve personel yönetim sistemleri  
-- Entity Framework Core ve SQL Server kullanarak büyük ölçekli uygulamalar  
-
-📫 Bana Ulaşın:
-
-- 📧 [E-posta Gönder](mailto:muhammed.kilic8@outlook.com)  
-- 💼 [LinkedIn Profilim](https://www.linkedin.com/in/aliarius)  
-
-😄 Zamirler: O/Erkek  
-
-⚡ Eğlenceli Gerçek:  
-C# ile backend teknolojilerine dalmayı ve karmaşık sistem mimarisi problemlerini çözmeyi seviyorum. Ayrıca yeni programlama paradigması ve teknolojiler öğrenmeye her zaman açığım.
